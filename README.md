@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: No one is intelligent, some people are just more expert on specific topic! ;)
 
-KEEP LEARNING!!!!!!!1
+KEEP LEARNING!!!!!!!
 
