@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- ⚡ Fun fact: No one is intelligent, some people are just more expert on specific topic! ;)
+- ⚡ Fun fact: No one is intelligent, some people are just more expert on specific topic! 😉
 
 ### Currently I'm listening to 🎵
 
