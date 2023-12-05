@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#21150](https://github.com/prisma/prisma/issues/21150) in [prisma/prisma](https://github.com/prisma/prisma)
+<!--END_SECTION:activity-->
 ![Vinay's GitHub stats](https://github-readme-stats-vinaykharayats-projects.vercel.app/api?username=vinaykharayat&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=blaze_kernel-phoenix,kernel_asus_sdm660,kernel_asus_sdm660-1)
