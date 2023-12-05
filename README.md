@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 [![Spotify](https://novatorem-seven-gules.vercel.app/api/spotify)](https://open.spotify.com/user/qnjekss95wfggl3mntbqyfgsy)
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
 ![Vinay's GitHub stats](https://github-readme-stats-vinaykharayats-projects.vercel.app/api?username=vinaykharayat&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=blaze_kernel-phoenix,kernel_asus_sdm660,kernel_asus_sdm660-1)
