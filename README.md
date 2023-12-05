@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 KEEP LEARNING!!!!!!!
 
-[![Spotify](https://novatorem-seven-gules.vercel.app/api/spotify)](https://open.spotify.com/user/vinaykharayat)
+[![Spotify](https://novatorem-seven-gules.vercel.app/api/spotify)](https://open.spotify.com/user/qnjekss95wfggl3mntbqyfgsy)
 
 
 ![Vinay's GitHub stats](https://github-readme-stats-vinaykharayats-projects.vercel.app/api?username=vinaykharayat&show_icons=true&theme=radical)
