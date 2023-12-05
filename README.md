@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 KEEP LEARNING!!!!!!!
 
+![Vinay's GitHub stats](https://github-readme-stats-three-ivory-36.vercel.app/api?username=vinaykharayat&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats-three-ivory-36.vercel.app/api/top-langs/?username=vinaykharayat)](https://github.com/vinaykharayat/github-readme-stats)
+
