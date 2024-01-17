@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21150](https://github.com/prisma/prisma/issues/21150) in [prisma/prisma](https://github.com/prisma/prisma)
+1. 🗣 Commented on [#1718](https://github.com/WalletConnect/web3modal/issues/1718#issuecomment-1895464897) in [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
