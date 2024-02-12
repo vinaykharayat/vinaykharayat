@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1718](https://github.com/WalletConnect/web3modal/issues/1718#issuecomment-1895464897) in [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal)
+1. 🗣 Commented on [#4135](https://github.com/ethereum/remix-project/issues/4135#issuecomment-1938084968) in [ethereum/remix-project](https://github.com/ethereum/remix-project)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
