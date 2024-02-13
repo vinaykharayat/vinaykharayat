@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4135](https://github.com/ethereum/remix-project/issues/4135#issuecomment-1938084968) in [ethereum/remix-project](https://github.com/ethereum/remix-project)
+1. 🗣 Commented on [#33](https://github.com/ex3ndr/llama-coder/issues/33#issuecomment-1941931394) in [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
