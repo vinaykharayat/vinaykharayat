@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5042](https://github.com/prisma/prisma/issues/5042#issuecomment-1987164854) in [prisma/prisma](https://github.com/prisma/prisma)
+1. 🗣 Commented on [#3113](https://github.com/ollama/ollama/issues/3113#issuecomment-2021871694) in [ollama/ollama](https://github.com/ollama/ollama)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
