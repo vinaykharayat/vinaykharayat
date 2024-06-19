@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3113](https://github.com/ollama/ollama/issues/3113#issuecomment-2021871694) in [ollama/ollama](https://github.com/ollama/ollama)
+1. ❗ Opened issue [#63](https://github.com/bnb-chain/node-deploy/issues/63) in [bnb-chain/node-deploy](https://github.com/bnb-chain/node-deploy)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
