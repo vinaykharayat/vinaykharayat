@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58](https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades/issues/58) in [OpenZeppelin/openzeppelin-foundry-upgrades](https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades)
+1. 🗣 Commented on [#63](https://github.com/bnb-chain/node-deploy/issues/63#issuecomment-2289329292) in [bnb-chain/node-deploy](https://github.com/bnb-chain/node-deploy)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
