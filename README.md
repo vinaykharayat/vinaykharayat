@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/bnb-chain/node-deploy/issues/63#issuecomment-2289329292) in [bnb-chain/node-deploy](https://github.com/bnb-chain/node-deploy)
+1. ❗ Opened issue [#103](https://github.com/dint-dev/universal_html/issues/103) in [dint-dev/universal_html](https://github.com/dint-dev/universal_html)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
