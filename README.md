@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#103](https://github.com/dint-dev/universal_html/issues/103) in [dint-dev/universal_html](https://github.com/dint-dev/universal_html)
+1. 💪 Opened PR [#2176](https://github.com/polkadot-developers/substrate-docs/pull/2176) in [polkadot-developers/substrate-docs](https://github.com/polkadot-developers/substrate-docs)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
