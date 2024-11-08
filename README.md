@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#852](https://github.com/florent37/Flutter-AssetsAudioPlayer/issues/852) in [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer)
+1. 🗣 Commented on [#852](https://github.com/florent37/Flutter-AssetsAudioPlayer/issues/852#issuecomment-2462864192) in [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
