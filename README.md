@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2388](https://github.com/pichillilorenzo/flutter_inappwebview/issues/2388#issuecomment-2543071325) in [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview)
+1. 🗣 Commented on [#24758](https://github.com/ccxt/ccxt/issues/24758#issuecomment-2572565325) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
 <!--END_SECTION:activity-->
 
 ### Technology I worked with 🧑‍💻
