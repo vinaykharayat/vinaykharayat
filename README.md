@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: No one is intelligent, some people are just more expert in a specific topic! 😉
 
+### ShopSwiftly
+
+ShopSwiftly is a price comparison app for e-marts like Swiggy Instamart, Blinkit, Bigbasket, JioMart, and Amazon Fresh, helping users save time and money.
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.soartech.shopswiftly.shopswiftly)
+[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-blue?logo=appstore&logoColor=white)](https://apps.apple.com/in/app/shopswiftly-compare-e-marts/id6745510972)
+
 ### Currently I'm listening to 🎵
 
 [![Spotify](https://novatorem-seven-gules.vercel.app/api/spotify)](https://open.spotify.com/user/qnjekss95wfggl3mntbqyfgsy)
