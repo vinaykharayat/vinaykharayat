@@ -115,7 +115,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#24758](https://github.com/ccxt/ccxt/issues/24758#issuecomment-2572643595) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
+1. 🗣 Commented on [#336](https://github.com/pcaversaccio/xdeployer/issues/336#issuecomment-3232763373) in [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer)
 <!--END_SECTION:activity-->
 
 ---
