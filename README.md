@@ -115,7 +115,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#336](https://github.com/pcaversaccio/xdeployer/issues/336#issuecomment-3232763373) in [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer)
+1. 🗣 Commented on [#36487](https://github.com/dbeaver/dbeaver/issues/36487#issuecomment-3291157174) in [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 <!--END_SECTION:activity-->
 
 ---
