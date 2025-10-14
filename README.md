@@ -115,7 +115,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#36487](https://github.com/dbeaver/dbeaver/issues/36487#issuecomment-3291157174) in [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
+1. 🗣 Commented on [#66](https://github.com/TheSpeedX/PROXY-List/issues/66#issuecomment-3384253042) in [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)
 <!--END_SECTION:activity-->
 
 ---
