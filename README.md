@@ -115,7 +115,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#2618](https://github.com/openbao/openbao/issues/2618) in [openbao/openbao](https://github.com/openbao/openbao)
+1. 🗣 Commented on [#2618](https://github.com/openbao/openbao/issues/2618#issuecomment-4048290925) in [openbao/openbao](https://github.com/openbao/openbao)
 <!--END_SECTION:activity-->
 
 ---
